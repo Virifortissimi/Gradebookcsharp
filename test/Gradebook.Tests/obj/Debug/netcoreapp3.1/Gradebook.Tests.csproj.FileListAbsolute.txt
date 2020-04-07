@@ -1,0 +1,4 @@
+C:\Users\User\Desktop\C#\gradebook\test\Gradebook.Tests\obj\Debug\netcoreapp3.1\Gradebook.Tests.csprojAssemblyReference.cache
+C:\Users\User\Desktop\C#\gradebook\test\Gradebook.Tests\obj\Debug\netcoreapp3.1\Gradebook.Tests.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C#\gradebook\test\Gradebook.Tests\obj\Debug\netcoreapp3.1\Gradebook.Tests.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\C#\gradebook\test\Gradebook.Tests\obj\Debug\netcoreapp3.1\Gradebook.Tests.AssemblyInfo.cs
